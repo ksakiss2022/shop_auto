@@ -1,3 +1,5 @@
+
+
 package com.skypro.shop_auto;
 
 import org.springframework.boot.SpringApplication;
