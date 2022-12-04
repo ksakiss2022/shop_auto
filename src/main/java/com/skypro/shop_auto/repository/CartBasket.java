@@ -1,3 +1,5 @@
+
+
 package com.skypro.shop_auto.repository;
 
 import org.springframework.stereotype.Component;

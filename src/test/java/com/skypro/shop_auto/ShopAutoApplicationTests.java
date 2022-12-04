@@ -1,3 +1,4 @@
+
 package com.skypro.shop_auto;
 
 import org.junit.jupiter.api.Test;
